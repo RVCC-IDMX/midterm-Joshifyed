@@ -1,2 +1,38 @@
 /* Journey to the Center of the Earth Practicum */
 /*Joshua Osborne */
+
+body {
+background-color: #ad9472;
+}
+header {
+    margin: 25pt;
+    border: 5px solid;
+    border-radius: 25px;
+    border-color: #886644;
+    padding: 20px;
+}
+nav {
+margin: 25pt;
+border: 5px solid;
+color: #886644;
+padding: 10px;
+}
+main {
+margin: 25pt;
+border: 5px solid;
+border-color: #886644;
+padding: 10px;
+
+}
+aside {
+    margin: 25pt;
+    border: 5px solid;
+    border-color: #886644;
+    padding: 10px;
+}
+footer {
+    margin: 25pt;
+    border: 5px solid;
+    border-color: #886644;
+    padding: 10px;
+}
