@@ -1,0 +1,7 @@
+header, nav, main, aside, footer {
+    margin: .25rem;
+    background-color: rgba(255,255,255,.75;
+    box-shadow: 10px 10px rgba(0,0,0,.5) inset;
+    border: 2px solid #886644;
+    padding: 1.25em;
+}
